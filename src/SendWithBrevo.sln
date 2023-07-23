@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendWithBrevo", "SendWithBrevo\SendWithBrevo.csproj", "{34F30502-D6D8-4B48-ADFE-4E87FD20EADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.BrevoClient", "Test.BrevoClient\Test.BrevoClient.csproj", "{044A0792-8FA2-479B-A9B6-FB890FB95CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F30502-D6D8-4B48-ADFE-4E87FD20EADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F30502-D6D8-4B48-ADFE-4E87FD20EADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F30502-D6D8-4B48-ADFE-4E87FD20EADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F30502-D6D8-4B48-ADFE-4E87FD20EADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044A0792-8FA2-479B-A9B6-FB890FB95CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044A0792-8FA2-479B-A9B6-FB890FB95CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044A0792-8FA2-479B-A9B6-FB890FB95CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044A0792-8FA2-479B-A9B6-FB890FB95CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4675549-A884-41FB-AC1E-0F6F1E7A99E8}
+	EndGlobalSection
+EndGlobal
