@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/jchristn/SendWithBrevo/master/assets/icon.ico)
+![alt tag](https://raw.githubusercontent.com/jchristn/SendWithBrevo/main/assets/logo.ico)
 
 # SendWithBrevo
 
